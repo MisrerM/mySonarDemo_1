@@ -1,3 +1,4 @@
+# MySonarDemo
 name: Sonar
 on:
   workflow_dispatch:
